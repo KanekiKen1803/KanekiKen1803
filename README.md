@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnshLodhi
 - 👀 I’m interested in Webdevelopment and Data Analysis
-- visit me on kanekiken1803.github.io/portfolio-web
+- visit me on www.kanekiken1803.github.io/portfolio-web
 
 
 <!---
